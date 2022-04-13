@@ -1,0 +1,5 @@
+[[redirects]]
+  from = "/definitions/1.0.0.json"
+  to = "https://github.com/smoya/test-release-assets/releases/download/1.0.0/1.0.0.json"
+  status = 200
+  
